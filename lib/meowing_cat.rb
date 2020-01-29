@@ -1,5 +1,5 @@
 class Cat
-  attr_writer :maru
+  attr_writer :name
   attr_reader :meow
  
 end 
